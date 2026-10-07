@@ -1,6 +1,7 @@
 # call-centre-performance-dashboard-excel
 Interactive Excel dashboard analyzing 2023 call centre performance, revenue, call volume, representatives and customer satisfaction
-<img width="482" height="350" alt="image" src="https://github.com/user-attachments/assets/14d8c6aa-6237-444f-90e7-17c5b04f3335" />
+<img width="478" height="349" alt="image" src="https://github.com/user-attachments/assets/430ebd20-f6ba-4cc5-bece-16b87e10632b" />
+
 
 # Call Centre Performance Dashboard | Excel
 
